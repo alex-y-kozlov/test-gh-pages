@@ -1,5 +1,3 @@
-# EUE Home
-
 # Home of Aternity on GitHub
 serving from **test-gh-pages**
 
